@@ -8,4 +8,4 @@ My fiction novel, WW2045: Alien Revenge, is now fully released. Available in pap
 
 * Get the eBook/Kindle version: https://amzn.to/4cFokAA 
 
-<p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/GitHub2.jpg"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/WW2045/blob/main/Images/Wallpapers/WW2045_Wallpaper.png"></center></p>
